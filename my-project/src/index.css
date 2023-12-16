@@ -1,0 +1,15 @@
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,700&family=Nunito:wght@400;500;600;700&family=Oswald:wght@400;500;600;700&family=Poppins:ital,wght@0,200;0,300;0,400;0,500;0,600;1,300&family=Roboto:ital,wght@0,400;0,700;1,100;1,500&family=Ubuntu:wght@400;500;700&display=swap');
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+.slick-slide > div {
+  margin: 0 10px;
+}
